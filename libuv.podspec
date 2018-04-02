@@ -27,6 +27,7 @@ Pod::Spec.new do |s|
     'include/uv-unix.h',
     'include/uv-version.h',
     'include/uv.h',
+    'include/pthread-barrier.h',
     
     'src/fs-poll.c',
     'src/heap-inl.h',
